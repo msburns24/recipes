@@ -7,4 +7,4 @@ Since college, I've always loved to cook. It's my belief that everyone deserves 
 Along with showcasing recipes, I also sought to exercise some basic HTML skills, including:
 
 - HTML Structure, along with `DOCTYPE` and `meta charset` elements.
-- Basic HTML tags, including `<h1> - <h6>`, `<p>`, `<ul>, <ol>, & <li>`, `<img>`, and `<a>`.
+- Basic HTML tags, including `<h1>` through `<h6>`, `<p>`, `<ul>, <ol>, & <li>`, `<img>`, and `<a>`.
